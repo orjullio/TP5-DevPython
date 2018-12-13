@@ -1,0 +1,18 @@
+                                        PROGRAMAÇÃO COM SOCKETS
+
+* Um cliente correspond ao programa que irá se conectar a um servidor e fazer requisições a ele. É um programa ativo.
+
+* Um servidor está relacionado ao programa que ficará esperando clientes se conectarem e fazerem requisições a ele. É um
+programa passivo.
+
+
+        Usando sockets
+
+O socket TCP é orientado a conexões, isto é, existe uma fase de conexões entre as máquinas que irão se comunicar. Esta
+comunicação tem todas  as funcionalidades do protocolo TCP de redes como abertura de conexão (handshaking), fechamento
+de
+
+
+                            PROGRAMAÇÃO SOM SOCKETS TCP PYTHON
+
+O sockets apresenta funções
